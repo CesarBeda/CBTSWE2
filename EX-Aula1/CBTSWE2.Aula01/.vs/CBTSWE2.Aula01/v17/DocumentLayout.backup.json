@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|c:\\particular\\instituto_federal\\cbtswe2-sistemas_web_2\\aula01\\cbtswe2.aula01\\repositorio\\livrorepositoriocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|solutionrelative:repositorio\\livrorepositoriocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|c:\\particular\\instituto_federal\\cbtswe2-sistemas_web_2\\aula01\\cbtswe2.aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|c:\\particular\\instituto_federal\\cbtswe2-sistemas_web_2\\aula01\\cbtswe2.aula01\\repositorio\\livrorepositoriofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|solutionrelative:repositorio\\livrorepositoriofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|c:\\particular\\instituto_federal\\cbtswe2-sistemas_web_2\\aula01\\cbtswe2.aula01\\repositorio\\ilivrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEF524-7D16-43AB-9370-36DB6A5FC5A8}|CBTSWE2.Aula01.csproj|solutionrelative:repositorio\\ilivrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILivroRepositorio.cs",
+              "DocumentMoniker": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Repositorio\\ILivroRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ILivroRepositorio.cs",
+              "ToolTip": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Repositorio\\ILivroRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ILivroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:32:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroRepositorioFake.cs",
+              "DocumentMoniker": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Repositorio\\LivroRepositorioFake.cs",
+              "RelativeDocumentMoniker": "Repositorio\\LivroRepositorioFake.cs",
+              "ToolTip": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Repositorio\\LivroRepositorioFake.cs",
+              "RelativeToolTip": "Repositorio\\LivroRepositorioFake.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:31:35.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroRepositorioCSV.cs",
+              "DocumentMoniker": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Repositorio\\LivroRepositorioCSV.cs",
+              "RelativeDocumentMoniker": "Repositorio\\LivroRepositorioCSV.cs",
+              "ToolTip": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Repositorio\\LivroRepositorioCSV.cs",
+              "RelativeToolTip": "Repositorio\\LivroRepositorioCSV.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:31:17.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\CBTSWE2-SISTEMAS_WEB_2\\Aula01\\CBTSWE2.Aula01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:27:14.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
