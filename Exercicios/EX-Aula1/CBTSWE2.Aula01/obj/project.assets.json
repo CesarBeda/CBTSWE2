@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cesar\\Downloads\\CBTSWE2.Aula01\\CBTSWE2.Aula01\\CBTSWE2.Aula01.csproj",
+      "projectUniqueName": "C:\\Users\\cesar\\OneDrive\\Documentos\\MeusProjetos\\CBTSWE2\\EX-Aula1\\CBTSWE2.Aula01\\CBTSWE2.Aula01.csproj",
       "projectName": "CBTSWE2.Aula01",
-      "projectPath": "C:\\Users\\cesar\\Downloads\\CBTSWE2.Aula01\\CBTSWE2.Aula01\\CBTSWE2.Aula01.csproj",
+      "projectPath": "C:\\Users\\cesar\\OneDrive\\Documentos\\MeusProjetos\\CBTSWE2\\EX-Aula1\\CBTSWE2.Aula01\\CBTSWE2.Aula01.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cesar\\Downloads\\CBTSWE2.Aula01\\CBTSWE2.Aula01\\obj\\",
+      "outputPath": "C:\\Users\\cesar\\OneDrive\\Documentos\\MeusProjetos\\CBTSWE2\\EX-Aula1\\CBTSWE2.Aula01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
