@@ -1,0 +1,38 @@
+﻿@model IEnumerable<TP2.Models.BL>
+
+@{
+    ViewData["Title"] = "Lista de BLs";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo BL</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Número do BL</th>
+            <th>Armador</th>
+            <th>Data de Emissão</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Numero</td>       @* Alterado de NumeroBL *@
+                <td>@item.Consignee</td>    @* Alterado de Armador *@
+                <td>@item.Navio</td>        @* Alterado de DataEmissao *@
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    
+</table>
