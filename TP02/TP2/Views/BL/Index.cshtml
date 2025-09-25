@@ -6,6 +6,13 @@
 
 <h1>@ViewData["Title"]</h1>
 
+@if (TempData["SuccessMessage"] != null)
+{
+    <div id="success-alert" class="alert alert-success" role="alert">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
 <p>
     <a asp-action="Create">Criar Novo BL</a>
 </p>
@@ -13,9 +20,15 @@
 <table class="table">
     <thead>
         <tr>
-            <th>Número do BL</th>
-            <th>Armador</th>
-            <th>Data de Emissão</th>
+            <th>
+                Número
+            </th>
+            <th>
+                Consignee
+            </th>
+            <th>
+                Navio
+            </th>
             <th>Ações</th>
         </tr>
     </thead>
@@ -23,16 +36,31 @@
         @foreach (var item in Model)
         {
             <tr>
-                <td>@item.Numero</td>       @* Alterado de NumeroBL *@
-                <td>@item.Consignee</td>    @* Alterado de Armador *@
-                <td>@item.Navio</td>        @* Alterado de DataEmissao *@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Numero)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Consignee)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Navio)
+                </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="text-danger">Deletar</a>
                 </td>
             </tr>
         }
     </tbody>
-    
 </table>
+
+@section Scripts {
+    <script>
+        var successAlert = document.getElementById('success-alert');
+        if (successAlert) {
+            setTimeout(function() {
+                successAlert.style.display = 'none';
+            }, 3000); // 3 segundos
+        }
+    </script>
+}

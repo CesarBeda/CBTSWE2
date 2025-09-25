@@ -36,7 +36,7 @@ namespace TP2.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("BLs");
+                    b.ToTable("BLs", (string)null);
                 });
 
             modelBuilder.Entity("TP2.Models.Container", b =>
@@ -64,7 +64,7 @@ namespace TP2.Migrations
 
                     b.HasIndex("BLId");
 
-                    b.ToTable("Containers");
+                    b.ToTable("Containers", (string)null);
                 });
 
             modelBuilder.Entity("TP2.Models.Container", b =>

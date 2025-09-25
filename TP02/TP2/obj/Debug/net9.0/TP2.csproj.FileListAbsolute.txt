@@ -364,7 +364,6 @@ C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\scopedcss\bundle\TP2.styles.css
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\scopedcss\projectbundle\TP2.bundle.scp.css
-C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\compressed\tu4vnvczee-lugek5hnai.gz
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\compressed\9o3dfo1uck-61n19gt1b8.gz
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\compressed\tgledawplc-fr7q2aak1r.gz
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\compressed\wsaw9zxbw6-bqjiyaj88i.gz
@@ -440,3 +439,4 @@ C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\TP2.pdb
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\TP2.genruntimeconfig.cache
 C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\ref\TP2.dll
 C:\Users\cesar\Downloads\TP2\bin\Debug\net9.0\meubanco.db
+C:\Users\cesar\Downloads\TP2\obj\Debug\net9.0\compressed\tu4vnvczee-0suvlp9riz.gz

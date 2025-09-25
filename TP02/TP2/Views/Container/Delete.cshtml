@@ -29,11 +29,17 @@
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Tamanho)
         </dd>
+        <dt class="col-sm-2">
+            BL Associado
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BL.Numero)
+        </dd>
     </dl>
 
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Deletar" class="btn btn-danger" /> |
-        <a asp-action="Index">Voltar para a Lista</a>
+        <input type="submit" value="Deletar" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Voltar</a>
     </form>
 </div>
