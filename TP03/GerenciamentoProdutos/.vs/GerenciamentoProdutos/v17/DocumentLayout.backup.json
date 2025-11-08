@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|c:\\users\\cesar\\source\\repos\\gerenciamentoprodutos\\gerenciamentoprodutos\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F4858D-60DF-443D-972B-7C2967B1ACA2}|GerenciamentoProdutos\\GerenciamentoProdutos.csproj|solutionrelative:gerenciamentoprodutos\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Models\\Produto.cs",
+              "RelativeToolTip": "GerenciamentoProdutos\\Models\\Produto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:47:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Program.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Program.cs",
+              "RelativeToolTip": "GerenciamentoProdutos\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:19:55.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "GerenciamentoProdutos\\Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T21:04:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Views\\Produtos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Delete.cshtml",
+              "RelativeToolTip": "GerenciamentoProdutos\\Views\\Produtos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T20:19:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Details.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Views\\Produtos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Details.cshtml",
+              "RelativeToolTip": "GerenciamentoProdutos\\Views\\Produtos\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T19:39:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoProdutos\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T19:16:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "GerenciamentoProdutos\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T19:08:02.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoProdutos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T18:55:40.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoProdutos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\GerenciamentoProdutos\\GerenciamentoProdutos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GerenciamentoProdutos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T18:47:17.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
