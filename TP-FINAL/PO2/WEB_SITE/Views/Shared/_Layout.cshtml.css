@@ -1,0 +1,151 @@
+﻿:root {
+    --ifsp-green: #2e7d32;
+    --ifsp-green-light: #4caf50;
+    --ifsp-green-dark: #1b5e20;
+    --ifsp-gray: #f5f5f5;
+    --ifsp-text: #333;
+    --ifsp-white: #ffffff;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--ifsp-gray);
+    color: var(--ifsp-text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-header {
+    background-color: var(--ifsp-green);
+    color: var(--ifsp-white);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+    .main-header .logo {
+        font-size: 1.5rem;
+        font-weight: 700;
+    }
+
+.nav-links a {
+    color: var(--ifsp-white);
+    text-decoration: none;
+    margin-left: 1.5rem;
+    font-weight: 500;
+    padding-bottom: 3px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s ease;
+}
+
+    .nav-links a:hover,
+    .nav-links a.active {
+        border-bottom: 2px solid var(--ifsp-green-light);
+    }
+
+.creditos-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 1rem;
+}
+
+.creditos-card {
+    background-color: var(--ifsp-white);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding: 2rem 3rem;
+    max-width: 700px;
+    width: 100%;
+    animation: fadeIn 0.6s ease;
+}
+
+    .creditos-card h2 {
+        color: var(--ifsp-green-dark);
+    }
+
+    .creditos-card ul {
+        list-style: none;
+        padding: 0;
+    }
+
+        .creditos-card ul li {
+            background-color: var(--ifsp-gray);
+            padding: 0.7rem;
+            border-radius: 8px;
+            margin: 0.5rem 0;
+        }
+
+.form-label {
+    font-weight: 600;
+    color: var(--ifsp-green-dark);
+}
+
+.form-control {
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    transition: border 0.2s ease, box-shadow 0.2s ease;
+}
+
+    .form-control:focus {
+        border-color: var(--ifsp-green);
+        box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2);
+        outline: none;
+    }
+
+.text-primary {
+    color: var(--ifsp-green-dark);
+}
+
+.btn-primary {
+    background-color: var(--ifsp-green);
+    color: var(--ifsp-white);
+    border: none;
+    border-radius: 6px;
+    padding: 0.6rem 1.2rem;
+    font-weight: 600;
+    transition: background 0.2s ease;
+}
+
+    .btn-primary:hover {
+        background-color: var(--ifsp-green-dark);
+    }
+
+.btn-outline-secondary {
+    border: 2px solid var(--ifsp-green);
+    color: var(--ifsp-green);
+    background: transparent !important;
+    border-radius: 6px;
+    font-weight: 600;
+}
+
+    .btn-outline-secondary:hover {
+        background-color: var(--ifsp-green);
+        color: var(--ifsp-white);
+    }
+
+.main-footer {
+    background-color: var(--ifsp-green-dark);
+    color: var(--ifsp-white);
+    text-align: center;
+    padding: 1.5rem 0;
+    margin-top: auto;
+    font-size: 0.9rem;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
