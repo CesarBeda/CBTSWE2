@@ -2,22 +2,14 @@
     ViewData["Title"] = "Home";
 }
 
-<div class="text-center" style="margin-top: 50px; margin-bottom: 50px;">
-    <h2>Sistema de Gerenciamento de Produtos</h2>
-
-    <p>
-        <a href="https://github.com/CesarBeda/CBTSWE2/tree/main/TP03" target="_blank">Repositório no GitHub</a>
-    </p>
-</div>
-
-<hr />
-
 <div class="row justify-content-center">
     <div class="col-md-4">
-        <section>
+        <section class=" mt-5 shadow border border-light rounded-3 p-4">
+            <h2 class="text-center p-2">Bem vindo!</h2>
+
             <form id="loginForm" method="post" asp-controller="Home" asp-action="Login">
 
-                <div class="form-group mb-3">
+                <div class="form-group mb-3 gap-1">
                     <label for="inputNome" class="control-label">Usuário</label>
                     <input type="text"
                            id="inputNome"
@@ -27,7 +19,7 @@
                            required />
                 </div>
 
-                <div class="form-group mb-3">
+                <div class="form-group mb-3 gap-1">
                     <label for="inputSenha" class="control-label">Senha</label>
                     <input type="password"
                            id="inputSenha"
@@ -44,8 +36,8 @@
                     </div>
                 }
 
-                <div class="form-group text-center">
-                    <button type="submit" class="btn btn-primary">Entrar</button>
+                <div class="form-group text-center ">
+                    <button type="submit" class="btn btn-primary w-100">Entrar</button>
                 </div>
             </form>
         </section>

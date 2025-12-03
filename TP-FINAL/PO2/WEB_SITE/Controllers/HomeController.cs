@@ -23,9 +23,13 @@ namespace WEB_SITE.Controllers
             return View();
         }
 
-        public IActionResult Creditos()
+        public IActionResult Sair()
         {
-            return View();
+            // 1. Limpa os dados da sessão (desloga o usuário)
+            HttpContext.Session.Clear();
+
+            // 2. Redireciona para a Home (onde está o Login)
+            return RedirectToAction("Index", "Home");
         }
 
         [HttpPost]
@@ -36,6 +40,9 @@ namespace WEB_SITE.Controllers
             if (usuario != null && usuario.Status == true && usuario.Senha == Senha)
             {
                 HttpContext.Session.SetInt32("UsuarioId", usuario.Id);
+            
+                HttpContext.Session.SetString("UsuarioNome", usuario.Nome);
+            
                 return RedirectToAction("Index", "Produtos");
             }
             else
